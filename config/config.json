@@ -1,3 +1,5 @@
-export: {
-  compress: false
+{
+	"export": {
+		"compress": false
+	}
 }

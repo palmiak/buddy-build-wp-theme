@@ -1,4 +1,8 @@
 {
+  "theme": {
+    "slug": "wp-rig-buddy",
+    "name": "WP Rig Buddy",
+  },
 	"export": {
 		"compress": false
 	}
